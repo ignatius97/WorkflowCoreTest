@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mKMwfudcIdprp5r83N2NXYGQKqhqcOQDoVW7SDf+Z8E=",
+  "Source": "workflowTest",
+  "BasePath": "_content/workflowTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
